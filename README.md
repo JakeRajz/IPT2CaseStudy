@@ -1,2 +1,2 @@
 # IPT2CaseStudy
-Case study on IPT2
+Case study on IPT
